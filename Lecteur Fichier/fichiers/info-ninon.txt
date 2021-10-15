@@ -1,0 +1,2 @@
+test lecture du fichier
+ligne numero 2
